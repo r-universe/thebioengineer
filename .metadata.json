@@ -1,5 +1,9 @@
 [
   {
+    "package": "camcorder",
+    "oncran": true
+  },
+  {
     "package": "tidytuesdayR",
     "oncran": true
   }

@@ -8,6 +8,11 @@
 	url = https://github.com/thebioengineer/camcorder
 	shallow = true
 	registered = true
+[submodule "gto"]
+	path = gto
+	url = https://github.com/cran/gto
+	shallow = true
+	registered = true
 [submodule "tidytuesdayR"]
 	path = tidytuesdayR
 	url = https://github.com/thebioengineer/tidytuesdayr

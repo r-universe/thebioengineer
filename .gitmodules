@@ -8,6 +8,3 @@
 [submodule "gto"]
 	path = gto
 	url = https://github.com/cran/gto
-[submodule "tidytuesdayR"]
-	path = tidytuesdayR
-	url = https://github.com/thebioengineer/tidytuesdayr
